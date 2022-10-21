@@ -1,0 +1,48 @@
+nav {
+    border-bottom: 1px solid black;
+    background-color: rgb(229, 240, 236);
+    
+}
+
+body { 
+    font-family: 'AGENCY FB', arial;
+    color: beige;
+    margin: 50px;
+    padding: 0px;
+   font-size: 25px;
+   }
+
+   .objectif li {
+    list-style-type: y;
+    padding-left: 3cm;
+    border-radius: 5px;
+    text-transform: uppercase;}
+
+    .obj {
+        display: inline-block;
+    }
+
+    li a {
+        display: block;
+        color:rgb(0, 0, 0);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: nome;
+    }
+
+    a.active, a:hover{
+        background-color:beige;
+        transition: .5s;}
+
+        .obj a::after {
+            display: inline-block;
+            color: #000;
+            content: '/';
+            font-size: 10%;
+            font-weight: bold;
+        }
+body{
+            height: 500px;
+            background-color: rgb(94, 87, 87);
+            background-size: 100%;
+        }

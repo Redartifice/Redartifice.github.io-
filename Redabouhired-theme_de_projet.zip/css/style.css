@@ -1,0 +1,22 @@
+body 
+{ font-family: 'AGENCY FB', arial;;
+margin: 3cm;
+
+}
+
+#p{font-size: medium;}
+
+button:hover{background-color: black;
+color: aliceblue;}
+col
+
+nav {padding-right: 5cm;}
+div {color: brown;}
+header { color: brown;}
+.bleu { color: blue;}
+.vert {color: green;}
+
+#rem_1 {
+    background-color: gray;
+    width:600px;
+    height:90px; }
